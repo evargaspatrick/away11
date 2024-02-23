@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YourProject.iml" filepath="$PROJECT_DIR$/YourProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/team-cyber-ware.iml" filepath="$PROJECT_DIR$/team-cyber-ware.iml" />
+    </modules>
+  </component>
+</project>
