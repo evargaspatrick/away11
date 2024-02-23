@@ -84,7 +84,7 @@
   "description" : "A small, cramped space filled with cleaning supplies and the occasional clue.",
   "items" : [ {
     "name" : "Sticky Note",
-    "description" : "A sticky note with a cryptic message that could lead to a breakthrough in the case.",
+    "description" : "A sticky note with a cryptic message \"hint: star-player of ‘64, 23 was the best\"",
     "location" : "Mega Stadium Hallway",
     "relevance" : "High",
     "clueType" : "Testimonial",
